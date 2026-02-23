@@ -1,7 +1,6 @@
 # Hey, I'm Dawid 👋
 
-**Computer Science student @ Wrocław University of Science and Technology**
-Fullstack developer in the making — I like building things that work.
+**Computer Science student of Wrocław University of Science and Technology**
 
 - Currently working on: ...
 - Currently learning: **React + TypeScript deeper, Django REST API best practices,**
